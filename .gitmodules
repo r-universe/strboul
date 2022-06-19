@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "shutterstock"]
+	path = shutterstock
+	url = https://github.com/strboul/shutterstock-r
+	shallow = true
+	registered = true
+[submodule "supreme"]
+	path = supreme
+	url = https://github.com/strboul/supreme
+	shallow = true
+	registered = true
